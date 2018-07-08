@@ -1,0 +1,8 @@
+{
+  "name": "prisma-yoga-server-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:okawa14all/prisma-yoga-server-demo.git",
+  "author": "Hitoshi Okawa <14all.okawa@gmail.com>",
+  "license": "MIT"
+}
